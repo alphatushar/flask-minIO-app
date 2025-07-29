@@ -18,8 +18,8 @@ Files can be **uploaded and downloaded** via API endpoints, all running in **mul
 ### Clone Repository
 
 ```bash
-git clone git@github.com:alphatushar/flask-minio-app.git
-cd flask-minio-app
+git clone git@github.com:alphatushar/flask-minIO-app.git
+cd flask-minIO-app
 ```
 
 ---
